@@ -8,6 +8,12 @@ a api para automatizar os requests e salvar no banco,
 o react para interligar a interface com a api e o banco, 
 e os layouts para estilizar o processo.
 
+<div></div>
+Quadro do Trello
+<div></div>
+<a href="https://trello.com/b/019Ydxa9/wishlist-g9"><img src="trello.png" width="25px" alt=""></a>
+
+<div></div>
 Contribuidores:
 <div></div>
 Bianca Marangoni <a href="https://github.com/biancamarangoni"><img src="logo.png" width="25px" alt=""></a>
