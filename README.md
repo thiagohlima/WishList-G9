@@ -11,7 +11,7 @@ e os layouts para estilizar o processo.
 <div></div>
 Quadro do Trello
 <div></div>
-<a href="https://trello.com/b/019Ydxa9/wishlist-g9"><img src="Trello.png" width="25px" alt=""></a>
+<a href="https://trello.com/b/019Ydxa9/wishlist-g9"><img src="Trello.png" width="50px" alt=""></a>
 
 <div></div>
 Contribuidores:
