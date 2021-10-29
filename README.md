@@ -10,5 +10,8 @@ e os layouts para estilizar o processo.
 
 Contribuidores:
 Bianca Marangoni <a href="https://github.com/biancamarangoni"><img src="logo.png" width="50px" alt=""></a>
+<div></div>
 Ricardo Tamahe <a href="https://github.com/ricardo-rtc"><img src="logo.png" width="50px" alt=""></a>
+<div></div>
 Thiago Henrique <a href="https://github.com/rike-thiago"><img src="logo.png" width="50px" alt=""></a>
+<div></div>
